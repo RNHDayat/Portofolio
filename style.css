@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+}
+body{
+    background-color:#161616;
+}
+hr{
+    color: #00C2FF;
+}
+section{
+    color: white;
+    font-size:1rem;
+}
+span{
+    color: #00C2FF;
+}
+#skills{
+    background-color: #1F1F1F;
+    min-height: 400px;
+    width: 100%;
+    color: white;
+}
+#skills img{
+    width: 12%;
+    margin: 10px;
+}
+#project{
+    padding: 60px 10px;
+}
+.list-contact {
+    padding: 0.5em;
+}
+#contact{
+    padding:20px 10px;
+    background-color: #1F1F1F;
+}
+.contact-me {
+    text-decoration: none;
+    color: #00C2FF;
+}
+ul{
+    list-style: none;
+}
